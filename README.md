@@ -1,6 +1,6 @@
 
 # ****MARKO****
-_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\
+\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/
 # **_Hello and welcome to my website!_**
 
 # **_Here I will try my best to add most of my accounts._**
