@@ -1,15 +1,12 @@
 
-                                                                  
-                                                                  
-`7MMM.     ,MMF'      db      `7MM"""Mq.  `7MMF' `YMM' .g8""8q.   
-  MMMb    dPMM       ;MM:       MM   `MM.   MM   .M' .dP'    `YM. 
-  M YM   ,M MM      ,V^MM.      MM   ,M9    MM .d"   dM'      `MM 
-  M  Mb  M' MM     ,M  `MM      MMmmdM9     MMMMM.   MM        MM 
-  M  YM.P'  MM     AbmmmqMA     MM  YM.     MM  VMA  MM.      ,MP 
-  M  `YM'   MM    A'     VML    MM   `Mb.   MM   `MM.`Mb.    ,dP' 
-.JML. `'  .JMML..AMA.   .AMMA..JMML. .JMM..JMML.   MMb.`"bmmd"'   
-                                                                  
-                                                                  
+  __  __          _____  _  ______  
+ |  \/  |   /\   |  __ \| |/ / __ \ 
+ | \  / |  /  \  | |__) | ' / |  | |
+ | |\/| | / /\ \ |  _  /|  <| |  | |
+ | |  | |/ ____ \| | \ \| . \ |__| |
+ |_|  |_/_/    \_\_|  \_\_|\_\____/ 
+                                    
+                                                                                        
 # **_Hello and welcome to my website!_**
 
 # **_Here I will try my best to add most of my accounts._**
