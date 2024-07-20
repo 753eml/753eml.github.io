@@ -49,6 +49,12 @@
 
 ## [sposifyplusplus](https://www.roblox.com/users/7010289550/profile)
 
+## ------------------------------Popular executors------------------------------
+
+## (Free) [Solara](https://github.com/quivings/Solara/blob/main/Files/SolaraB2.zip)
+
+## (Paid) [Wave](https://getwave.gg/), [Electron](https://nocap.land/)
+
 ## ------------------------------YouTube------------------------------
 
 ## [roblossussyomg](https://www.youtube.com/@roblossussyomg)
