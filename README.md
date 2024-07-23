@@ -1,16 +1,24 @@
 # **MARKO**
-\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/
+\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/
 
 # **_Hello and welcome to my website!_**
 
 # **_Here I will try my best to add most of my accounts._**
 
-# **_I'll change this list regularly later on in the future too._**
+# **_I'll change this list weekly later on in the future too._**
 
 # **_By the way, this is in alphabetical order._**
 
-# **Shoutout to @.airforcefan on discord for the help!**
 ## ------------------------------Roblox------------------------------
+
+## 0 ---------------------
+
+## [05gc9m05u02](https://www.roblox.com/users/12566170/profile)
+
+## 9 ---------------------
+
+## [932W7NHJ5098347HF498](https://www.roblox.com/users/5855925127/profile)
+
 ## A ---------------------
 
 ## [abitofvehiclecheat](https://www.roblox.com/users/6055065446/profile);
