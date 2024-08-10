@@ -62,7 +62,7 @@
 
 ## -------------------------------------Executors, that I know of-------------------------------------
 
-## (Free) [Solara: [Discord](https://discord.gg/) [Telegram](https://t.me/thesolara)]], [Zorara: [Discord](https://discord.gg/getzorara)], [Nyx: [Discord](https://discord.gg/getnyx)], [Celery? [Discord](https://discord.gg/celery); (potentially going paid)], [Neptune: [Discord](https://discord.gg/getneptune)] 
+## (Free) [Solara: [Discord](https://discord.gg/) [Telegram](https://t.me/thesolara)], [Zorara: [Discord](https://discord.gg/getzorara)], [Nyx: [Discord](https://discord.gg/getnyx)], [Celery? [Discord](https://discord.gg/celery); (potentially going paid)], [Neptune: [Discord](https://discord.gg/getneptune)] 
 
 ## (Paid) [Wave: [Discord](https://discord.gg/ridethewave); [Website](https://getwave.gg)], [Electron: [Discord](https://discord.gg/electron); [Website](https://nocap.land/)]
 
