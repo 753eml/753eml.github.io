@@ -1,6 +1,3 @@
-# **MARKO**
-\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/
-
 # **_Hello and welcome to my website!_**
 
 # **_Here I will try my best to add most of my accounts._**
@@ -65,7 +62,7 @@
 
 ## ------------------------------------------Popular executors------------------------------------------
 
-## (Free) [Solara (CURRENTLY NO LINK YET, ONLY [TELEGRAM](https://t.me/thesolara) AVAILABLE)]
+## (Free) [Solara: [Discord](https://discord.gg/) [Telegram](https://t.me/thesolara) AVAILABLE)], [Zorara: [Discord](https://discord.gg/getzorara), [Nyx: [Discord](https://discord.gg/getnyx) 
 
 ## (Paid) [Wave](https://getwave.gg/), [Electron](https://nocap.land/)
 
