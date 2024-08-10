@@ -65,7 +65,7 @@
 
 ## ------------------------------------------Popular executors------------------------------------------
 
-## (Free) [Solara](https://github.com/quivings/Solara/blob/main/Files/SolaraB2.zip)
+## (Free) [Solara (CURRENTLY NO LINK YET, ONLY [TELEGRAM](https://t.me/thesolara) AVAILABLE)]
 
 ## (Paid) [Wave](https://getwave.gg/), [Electron](https://nocap.land/)
 
