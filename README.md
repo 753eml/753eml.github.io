@@ -68,9 +68,9 @@
 
 ## -------------------------------------Executors, that I know of-------------------------------------
 
-## (Free) [Solara: [Discord](https://discord.gg/) [Telegram](https://t.me/thesolara)], [Zorara: [Discord](https://discord.gg/getzorara)], [Nyx: [Discord](https://discord.gg/getnyx)], [Celery? [Discord](https://discord.gg/celery); (potentially going paid)], [Neptune: [Discord](https://discord.gg/getneptune)] 
+## (Free) [Solara: [Telegram](https://t.me/thesolara) [no Discord link due to it constantly being terminated], [Zorara: [Discord](https://discord.gg/getzorara)], [Nyx: [Discord](https://discord.gg/getnyx)], [Celery (potentially going paid) [Discord](https://discord.gg/celery); [Telegram](https://t.me/GetCelery/1576)]];, [Neptune (potentially getting sold off or discountinued): [Discord](https://discord.gg/getneptune)] 
 
-## (Paid) [Wave: [Discord](https://discord.gg/ridethewave); [Website](https://getwave.gg)], [Electron: [Discord](https://discord.gg/electron); [Website](https://nocap.land/)]
+## (Paid) [Wave: [not recommended anymore](https://getwave.gg)], [Electron: [Discord](https://discord.gg/electron); [Website](https://nocap.land/)]
 
 ## -----------------------------------YouTube-----------------------------------
 
