@@ -4,7 +4,7 @@
 
 # **_List will change every once in a while._**
 
-# **Last updated: 26/09/2024 19:31:45 (UTC+3).**
+# **Last updated: 28/09/2024 17:41:15 (UTC+3).**
 
 ## ------------------------------------------------Roblox------------------------------------------------
 
@@ -35,6 +35,8 @@
 ## [gachameth](https://www.roblox.com/users/5351699139/profile);
 
 ## I ------------------------------------------
+
+## [indiaarsenalantihack](https://www.roblox.com/users/7398162652/profile)
 
 ## [IPV6ConfigGotLeaked (inactive due to last ban until termination)](https://www.roblox.com/users/5868122895/profile);
 
