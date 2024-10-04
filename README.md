@@ -1,10 +1,10 @@
 # **_Hello and welcome to my website!_**
 
-# **_Here I will try my best to add most of my accounts._**
+# **_Here I will try my best to update the information._**
 
 # **_List will change every once in a while._**
 
-# **Last updated: 04/10/2024 20:32:35 (UTC+3).**
+# **Last updated: 04/10/2024 20:33:15 (UTC+3).**
 
 ## ————————————————Roblox————————————————
 
