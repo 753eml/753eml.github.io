@@ -4,7 +4,7 @@
 
 # **_List will change every once in a while._**
 
-# **Last updated: 05/10/2024 17:52:20 (UTC+3).**
+# **Last updated: 05/10/2024 18:44:50 (UTC+3).**
 
 ## ————————————————Roblox————————————————
 
@@ -87,6 +87,8 @@
 ## [Exuny's AirHub V2 Reupload](https://753eml.github.io/aimbot/)
 
 ## [Thunder Client Lite V2 Reupload](https://753eml.github.io/tcl/)
+
+## [CrowsDesire1's Animation (with less useless lines and wait times)](https://753eml.github.io/anim/)
 
 ## ————————————————YouTube————————————————
 
