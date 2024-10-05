@@ -4,7 +4,7 @@
 
 # **_List will change every once in a while._**
 
-# **Last updated: 05/10/2024 17:45:10 (UTC+3).**
+# **Last updated: 05/10/2024 17:52:20 (UTC+3).**
 
 ## ————————————————Roblox————————————————
 
@@ -80,7 +80,7 @@
 
 ## ————————————————Scripts, that I *published* (All work on Solara)————————————————
 
-## [Infinite Yield Reborn (with extra commands)](https://753eml.github.io/iyrm/)
+## [Infinite Yield Reborn (with extra commands)](https://753eml.github.io/iy_r-m/)
 
 ## [Doors: Mspaint + Door sound modifications](https://753eml.github.io/doors)
 
