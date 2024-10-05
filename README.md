@@ -4,7 +4,7 @@
 
 # **_List will change every once in a while._**
 
-# **Last updated: 05/10/2024 15:01:20 (UTC+3).**
+# **Last updated: 05/10/2024 15:16:20 (UTC+3).**
 
 ## ————————————————Roblox————————————————
 
@@ -76,7 +76,7 @@
 
 ## (Paid) [Celery [Usually down for very long :(]](https://celery.zip) [Electron [Hasn't been up in a long time, just like celery :(]](https://nocap.land/)], [Wave](https://getwave.gg)]
 
-## ————————————————Scripts, that I *published*————————————————
+## ————————————————Scripts, that I *published* (All work on Solara)————————————————
 
 ## [Infinite Yield Reborn (with extra commands)](https://753eml.github.io/iyrm/)
 
