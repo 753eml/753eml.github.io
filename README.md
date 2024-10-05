@@ -4,7 +4,7 @@
 
 # **_List will change every once in a while._**
 
-# **Last updated: 04/10/2024 20:33:15 (UTC+3).**
+# **Last updated: 05/10/2024 15:00:40 (UTC+3).**
 
 ## ————————————————Roblox————————————————
 
@@ -78,9 +78,11 @@
 
 ## ————————————————Scripts, that I published (*NOT MADE BY ME ENTIRELY*)————————————————
 
-## [Infinite Yield Reborn (with walkfling commands added)](https://753eml.github.io/iyrm/)
+## [Infinite Yield Reborn (with extra commands)](https://753eml.github.io/iyrm/)
 
-## [Doors: Mspaint + Door opening sounds](https://753eml.github.io/doors)
+## [Doors: Mspaint + Door sound modifications](https://753eml.github.io/doors)
+
+## [Exuny's AirHub V2 Reupload](https://753eml.github.io/aimbot/)
 
 ## ————————————————YouTube————————————————
 
