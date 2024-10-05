@@ -4,7 +4,7 @@
 
 # **_List will change every once in a while._**
 
-# **Last updated: 05/10/2024 16:56:25 (UTC+3).**
+# **Last updated: 05/10/2024 16:57:25 (UTC+3).**
 
 ## ————————————————Roblox————————————————
 
@@ -24,7 +24,7 @@
 
 ## [dawhatboomisontop](https://www.roblox.com/users/6162137615/profile);
 
-## [Deactivated910275480 (Account I'm currently using)](https://www.roblox.com/users/7417117260/profile)
+## [Deactivated910275480 (Active)](https://www.roblox.com/users/7417117260/profile)
 
 ## [displaytest0c](https://www.roblox.com/users/5134788949/profile);
 
@@ -46,7 +46,7 @@
 
 ## [M78mx_V2 (2 bans until termination)](https://www.roblox.com/users/4669334394/profile);
 
-## [M78mx_V3 (Deactivated, not banned until maybe next week)](https://www.roblox.com/users/7331226208/profile)
+## [M78mx_V3 (Reactivated, active)](https://www.roblox.com/users/7331226208/profile)
 
 ## [M78mx_adapted](https://www.roblox.com/users/5748906852/profile);
 
@@ -68,7 +68,7 @@
 
 ## T ————————————————
 
-## [testing1246723895692](https://www.roblox.com/users/7425453510/profile)
+## [testing1246723895692 (Active)](https://www.roblox.com/users/7425453510/profile)
 
 ## [ThunderIsReal0152389](https://www.roblox.com/users/7130664484/profile)
 
