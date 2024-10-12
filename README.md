@@ -4,7 +4,7 @@
 
 # **_List will change every once in a while._**
 
-# **Last updated: 12/10/2024 14:00:55 (UTC+3).**
+# **Last updated: 12/10/2024 14:02:35 (UTC+3).**
 
 ## ————————————————Roblox————————————————
 
@@ -88,7 +88,9 @@
 
 ## [CrowsDesire1's Animation GUI (with less useless lines and wait times)](https://753eml.github.io/anim/)
 
-## [Doors: Mspaint + Door sound modifications](https://753eml.github.io/doors)
+## [Doors: Mspaint + Sound modifications (Client-sided)](https://753eml.github.io/doors)
+
+## [Doors Beta script](https://raw.githubusercontent.com/753eml/doorsBETA/refs/heads/main/drbeta.lua)
 
 ## [Exuny's AirHub V2 Reupload](https://753eml.github.io/aimbot/)
 
