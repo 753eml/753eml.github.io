@@ -4,7 +4,7 @@
 
 # **_List will change every once in a while._**
 
-# **Last updated: 09/10/2024 18:19:45 (UTC+3).**
+# **Last updated: 12/10/2024 14:00:35 (UTC+3).**
 
 ## ————————————————Roblox————————————————
 
@@ -32,7 +32,7 @@
 
 ## F ————————————————
 
-## [funnyshmunny](https://www.roblox.com/share?code=286047b4ef203045a13868face96518e&type=Profile&source=ProfileShare&stamp=1728730758048)
+## [funnyshmunny](https://www.roblox.com/users/7446176990/profile)
 
 ## G ————————————————
 
