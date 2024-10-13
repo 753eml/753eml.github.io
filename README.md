@@ -4,7 +4,7 @@
 
 # **_List will change every once in a while._**
 
-# **Last updated: 12/10/2024 14:02:35 (UTC+3).**
+# **Last updated: 13/10/2024 18:28:20 (UTC+3).**
 
 ## ————————————————Roblox————————————————
 
