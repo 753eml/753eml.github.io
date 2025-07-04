@@ -1,4 +1,4 @@
-# **Stuff (mainly exploit related)**
+# **Stuff (mainly exploit-related)**
 
 # **List will probably change once a year 😭.**
 
