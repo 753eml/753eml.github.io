@@ -6,7 +6,7 @@
 
 # ***DO NOT EXPLOIT AT THIS TIME**
 
-# **Last updated: 04/07/2025 18:04 (UTC+3).**
+# **Last updated: 04/07/2025 18:06 (UTC+3).**
 
 ## ————————————————Roblox————————————————
 
@@ -96,7 +96,7 @@
 
 ## (Paid) [Wave](https://getwave.gg)], [Zenith (Recommended)](https://zenith.win/), [Potassium (Unverified)](https://discord.com/invite/WY4juPkFv4)
 
-## ————————————————Scripts, that I *published* (Tested on Solara)————————————————
+## ————————————————Scripts, that I *published*————————————————
 
 ## [CrowsDesire1's Animation GUI (with modifications)](https://753eml.github.io/anim/)
 
