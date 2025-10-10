@@ -1,12 +1,12 @@
-# **Stuff (mainly exploit-related)**
+# **Mainly exploit-related**
 
-# **List will probably change once a year 😭.**
+# **List is gonna stay outdated, due to the amount of accounts i create**
 
 # **Most accounts are either on their last 2 (or 1) bans except mains**
 
-# ***DO NOT EXPLOIT AT THIS TIME**
+# ***it seems to be okay to exploit? (no client modification bans)**
 
-# **Last updated: 04/07/2025 18:06 (UTC+3).**
+# **Last updated: 11/10/2025 01:45 (UTC+3).**
 
 ## ————————————————Roblox————————————————
 
