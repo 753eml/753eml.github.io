@@ -4,7 +4,7 @@
 
 # **The only current reliable account is markussunmatiss or curvedstatisticforms.**
 
-# **Last updated: 22/11/2025 17:31 (UTC+2 Daylight Savings).**
+# **Last updated: 22/11/2025 17:36 (UTC+2 Daylight Savings).**
 
 ## ————————————————Roblox————————————————
 
@@ -24,7 +24,7 @@
 
 ## C ————————————————
 
-## [curvedstatisticforms](https://www.roblox.com/users/9695342274/profile)
+## [curvedstatisticforms](https://www.roblox.com/users/9695342274/profile);
 
 ## D ————————————————
 
@@ -94,7 +94,7 @@
 
 ## ———————————————Popular Roblox PC Executors———————————————
 
-## (Free) [Volcano (The best currently)](https://volcano.wtf) [Solara](https://getsolara.dev)
+## (Free) [Volcano (The best currently)](https://volcano.wtf), [Solara](https://getsolara.dev)
 
 ## (Paid) [Zenith (Recommended)](https://zenith.win/), [Wave](https://getwave.gg), [Potassium (Unverified)](https://discord.com/invite/WY4juPkFv4)
 
