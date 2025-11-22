@@ -10,47 +10,51 @@
 
 ## 0 ————————————————
 
-## [05gc9m05u02 (NON-EXPLOIT ACCOUNT)](https://www.roblox.com/users/12566170/profile)
+## [05gc9m05u02 (NON-EXPLOIT ACCOUNT)](https://www.roblox.com/users/12566170/profile);
 
 ## 9 ————————————————
 
-## [932W7NHJ5098347HF498](https://www.roblox.com/users/5855925127/profile)
+## [932W7NHJ5098347HF498](https://www.roblox.com/users/5855925127/profile);
 
 ## A ————————————————
 
-## [and2saidwhatsgoingon](https://www.roblox.com/users/8729275909/profile)
+## [and2saidwhatsgoingon](https://www.roblox.com/users/8729275909/profile);
 
-## [arristvremote_219468](https://www.roblox.com/users/7070947401/profile)
+## [arristvremote_219468](https://www.roblox.com/users/7070947401/profile);
+
+## C ————————————————
+
+## [curvedstatisticforms](https://www.roblox.com/users/9695342274/profile)
 
 ## D ————————————————
 
 ## [dawhatboomisontop](https://www.roblox.com/users/6162137615/profile);
 
-## [Deactivated910275480](https://www.roblox.com/users/7417117260/profile)
+## [Deactivated910275480](https://www.roblox.com/users/7417117260/profile);
 
 ## [displaytest0c](https://www.roblox.com/users/5134788949/profile);
 
-## [display0ctestxy78](https://www.roblox.com/users/5157908370/profile)
+## [display0ctestxy78](https://www.roblox.com/users/5157908370/profile);
 
-## [Drift321896523826](https://www.roblox.com/users/8668949139/profile)
+## [Drift321896523826](https://www.roblox.com/users/8668949139/profile);
 
 ## F ————————————————
 
-## [funnyshmunny](https://www.roblox.com/users/7446176990/profile)
+## [funnyshmunny](https://www.roblox.com/users/7446176990/profile);
 
 ## G ————————————————
 
-## [gachameth](https://www.roblox.com/users/5351699139/profile)
+## [gachameth](https://www.roblox.com/users/5351699139/profile);
 
 ## H ————————————————
 
-## [hey_hi2m (NON-EXPLOIT ACCOUNT)](https://www.roblox.com/users/1697373751/profile)
+## [hey_hi2m (NON-EXPLOIT ACCOUNT)](https://www.roblox.com/users/1697373751/profile);
 
 ## I ————————————————
 
 ## [indiaarsenalantihack](https://www.roblox.com/users/7398162652/profile);
 
-## [IPV6ConfigGotLeaked](https://www.roblox.com/users/5868122895/profile)
+## [IPV6ConfigGotLeaked](https://www.roblox.com/users/5868122895/profile);
 
 ## M ————————————————
 
@@ -58,7 +62,7 @@
 
 ## [M78mx_V2](https://www.roblox.com/users/4669334394/profile);
 
-## [M78mx_V3](https://www.roblox.com/users/7331226208/profile)
+## [M78mx_V3](https://www.roblox.com/users/7331226208/profile);
 
 ## [M78mx_adapted](https://www.roblox.com/users/5748906852/profile);
 
@@ -66,13 +70,13 @@
 
 ## [markussunmatiss (MAIN)](https://www.roblox.com/users/323251463/profile);
 
-## [methincoming](https://www.roblox.com/users/5276991569/profile)
+## [methincoming](https://www.roblox.com/users/5276991569/profile);
 
 ## R ————————————————
 
-## [roblossussyomg (NON-EXPLOIT ACCOUNT)](https://www.roblox.com/users/3361892199/profile)
+## [roblossussyomg (NON-EXPLOIT ACCOUNT)](https://www.roblox.com/users/3361892199/profile);
 
-## [Refabricated_Inteli5](https://www.roblox.com/users/8811706794/profile)
+## [Refabricated_Inteli5](https://www.roblox.com/users/8811706794/profile);
 
 ## S ————————————————
 
@@ -80,11 +84,11 @@
 
 ## [sposifyplusplus](https://www.roblox.com/users/7010289550/profile);
 
-## [synapse_remakepa24f1](https://www.roblox.com/users/7386912987/profile)
+## [synapse_remakepa24f1](https://www.roblox.com/users/7386912987/profile);
 
 ## T ————————————————
 
-## [testing1246723895692](https://www.roblox.com/users/7425453510/profile)
+## [testing1246723895692](https://www.roblox.com/users/7425453510/profile);
 
 ## [ThunderIsReal0152389](https://www.roblox.com/users/7130664484/profile)
 
@@ -92,7 +96,7 @@
 
 ## (Free) [Volcano (The best currently)](https://volcano.wtf) [Solara](https://getsolara.dev)
 
-## (Paid) [Zenith (Recommended)](https://zenith.win/), [Wave](https://getwave.gg)], [Potassium (Unverified)](https://discord.com/invite/WY4juPkFv4)
+## (Paid) [Zenith (Recommended)](https://zenith.win/), [Wave](https://getwave.gg), [Potassium (Unverified)](https://discord.com/invite/WY4juPkFv4)
 
 ## ————————————————Scripts, that I *published*————————————————
 
