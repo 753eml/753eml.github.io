@@ -1,12 +1,10 @@
-# **Mainly exploit-related**
+# ***MAJOR ANTICHEAT CHANGES, DO NOT ATTEMPT TO EXPLOIT ON VALUABLE ACCOUNTS!!**
 
-# **List is gonna stay outdated, due to the amount of accounts i create**
+# **List is gonna stay outdated, due to me being very busy with scripts.**
 
-# **Most accounts are either on their last 2 (or 1) bans except mains**
+# **The only current reliable account is markussunmatiss or curvedstatisticforms.**
 
-# ***it seems to be okay to exploit? (no client modification bans)**
-
-# **Last updated: 11/10/2025 01:45 (UTC+3).**
+# **Last updated: 22/11/2025 17:31 (UTC+2 Daylight Savings).**
 
 ## ————————————————Roblox————————————————
 
@@ -72,13 +70,13 @@
 
 ## R ————————————————
 
-## [roblossussyomg (2ND MOST ACTIVE MAIN)](https://www.roblox.com/users/3361892199/profile)
+## [roblossussyomg (NON-EXPLOIT ACCOUNT)](https://www.roblox.com/users/3361892199/profile)
 
 ## [Refabricated_Inteli5](https://www.roblox.com/users/8811706794/profile)
 
 ## S ————————————————
 
-## [sdrfsdfsdfsdff (LEAST ACTIVE MAIN)](https://www.roblox.com/users/3176306273/profile);
+## [sdrfsdfsdfsdff (NON-EXPLOIT ACCOUNT)](https://www.roblox.com/users/3176306273/profile);
 
 ## [sposifyplusplus](https://www.roblox.com/users/7010289550/profile);
 
@@ -92,13 +90,13 @@
 
 ## ———————————————Popular Roblox PC Executors———————————————
 
-## (Free) [Solara](https://getsolara.dev), [Trigon Evo (Best key-less)](https://trigonevo.com), [Bunni.lol](https://getbunni.lol), [LX63](https://lx63.xyz) [Volcano (New electron)](https://volcano.best)
+## (Free) [Volcano (The best currently)](https://volcano.wtf) [Solara](https://getsolara.dev)
 
-## (Paid) [Wave](https://getwave.gg)], [Zenith (Recommended)](https://zenith.win/), [Potassium (Unverified)](https://discord.com/invite/WY4juPkFv4)
+## (Paid) [Zenith (Recommended)](https://zenith.win/), [Wave](https://getwave.gg)], [Potassium (Unverified)](https://discord.com/invite/WY4juPkFv4)
 
 ## ————————————————Scripts, that I *published*————————————————
 
-## [CrowsDesire1's Animation GUI (with modifications)](https://753eml.github.io/anim/)
+## [(OLD V3RMILLION) CrowsDesire1's Animation GUI - Modded)](https://753eml.github.io/anim/)
 
 ## [Doors (Client-sided, temporarily discontinued)](https://753eml.github.io/doors)
 
@@ -106,11 +104,11 @@
 
 ## [Exuny's AirHub V2 re-upload](https://753eml.github.io/aimbot/)
 
-## [FTAP Strength (idk who made it)](https://753eml.github.io/ftap/)
+## [FTAP Strength - Modded (idk who made it)](https://753eml.github.io/ftap/)
 
-## [Infinite Yield Reborn (with extra commands)](https://753eml.github.io/iy_r-m/)
+## [IYRM (Infinite Yield: Reborn (Legacy) - Modded)](https://753eml.github.io/iyrmbeta/)
 
-## [UNC re-uploads](https://753eml.github.io/UNC/)
+## [UNC re-uploads (MoreUNC specifically - Modded)](https://753eml.github.io/UNC/)
 
 ## ————————————————YouTube————————————————
 
